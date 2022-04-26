@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 [othergh]: https://github.com/gnramsay
 [tekcited]: https://www.tekcited.net
 [mss]: https://www.rigzone.com/training/insight.asp?insight_id=303
-[db]: https://www.google.co.uk/search?q=Doodlebugger
+[db]: https://www.urbandictionary.com/define.php?term=doodlebugger
