@@ -6,13 +6,13 @@
 developer and unashamed Trekkie (Star Gate was also pretty cool. Discovery sucks
 donkey balls).
 
-I have been programming in one form or other since I was 10 (ZX81 BASIC WTF),
+I have been programming in one form or other since I was 10 (ZX81 BASIC FTW),
 which is over 40 years of wrist strain and no dates.
 
-27 years of this time I also had an amazing life and career in the offshore Oil and
-Gas Industry, traveling almost the whole world and finding new and unique local
-customs to be arrested for breaking, usually while imbibing new and unique local
-alcohol.
+For 27 years of this time I also had an amazing life and career in the offshore
+Oil and Gas Industry working on (and then running) Seismic Survey Ships,
+traveling almost the whole world and finding new and unique local customs to be
+arrested for breaking, usually while imbibing new and unique local alcohol.
 
 Those days are way past now and I have returned to coding as a way of life. I am
 fascinated with new technologies and continuously want to learn more and more.
