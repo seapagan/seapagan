@@ -2,22 +2,23 @@
 
 ## Who am I?
 
-**Grant Ramsay**, also known as '**Seapagan**'. Coder, Full-Stack developer and
-unashamed
-Trekie (Star Gate was also pretty cool. Discovery sucks donkey balls).
+**Grant Ramsay**, also known as '**Seapagan**'. Coder, Dev-ops, Full-Stack
+developer and unashamed Trekkie (Star Gate was also pretty cool. Discovery sucks
+donkey balls).
 
 I have been programming in one form or other since I was 10 (ZX81 BASIC WTF),
 which is over 40 years of wrist strain and no dates.
 
 27 years of this time I also had an amazing life and career in the offshore Oil and
-Gas Industry, travelling almost the whole world and finding new and unique local
-customs to be arrested for breaking, usually while inbibing new and unique local
+Gas Industry, traveling almost the whole world and finding new and unique local
+customs to be arrested for breaking, usually while imbibing new and unique local
 alcohol.
 
 Those days are way past now and I have returned to coding as a way of life. I am
 fascinated with new technologies and continuously want to learn more and more.
 
-My current languages of choice are Python, HTML/CSS etc, Javascript and Ruby.
+My current languages of choice are Python, HTML/CSS etc, Javascript
+(specifically React though I also perversely enjoy vanilla JS) and Ruby.
 
 Visit my [Portfolio page][porto] and my [Projects
 page][projects] for more insights! I'm also trying (badly) to resurrect my old
