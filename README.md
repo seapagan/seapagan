@@ -25,6 +25,9 @@ page][projects] for more insights! I'm also trying (badly) to resurrect my old
 blog [Tek:Cited][tekcited] though the going is slow....
 
 ![Profile views](https://gpvc.arturio.dev/seapagan)
+[![Anurag's github
+stats](https://github-readme-stats.vercel.app/api?username=seapagan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=seapagan&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 I also have more public repositories at my [@gnramsay][othergh] account
 
