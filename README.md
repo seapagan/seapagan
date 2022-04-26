@@ -10,9 +10,10 @@ I have been programming in one form or other since I was 10 (ZX81 BASIC FTW),
 which is over 40 years of wrist strain and no dates.
 
 For 27 years of this time I also had an amazing life and career in the offshore
-Oil and Gas Industry working on (and then running) Seismic Survey Ships,
+Oil and Gas Industry working on (and then running) [Seismic Survey Ships][mss],
 traveling almost the whole world and finding new and unique local customs to be
-arrested for breaking, usually while imbibing new and unique local alcohol.
+arrested for breaking, usually while imbibing new and unique local alcohol. I
+was a [Doodlebugger][db], it's a lifestyle not a job.
 
 Those days are way past now and I have returned to coding as a way of life. I am
 fascinated with new technologies and continuously want to learn more and more.
@@ -50,3 +51,5 @@ Here are some ideas to get you started:
 [projects]: https://www.grantramsay.dev
 [othergh]: https://github.com/gnramsay
 [tekcited]: https://www.tekcited.net
+[mss]: https://www.rigzone.com/training/insight.asp?insight_id=303
+[db]: https://www.google.co.uk/search?q=Doodlebugger
