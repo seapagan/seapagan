@@ -21,6 +21,9 @@ fascinated with new technologies and continuously want to learn more and more.
 My current languages of choice are Python, HTML/CSS etc, Javascript
 (specifically React though I also perversely enjoy vanilla JS) and Ruby.
 
+I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
+These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). There are still a couple in this account I need to transfer over.
+
 Visit my [Portfolio page][porto] and my [Projects
 page][projects] for more insights! I'm also trying (badly) to resurrect my old
 blog [Tek:Cited][tekcited] though the going is slow....
@@ -33,21 +36,6 @@ stats](https://github-readme-stats.vercel.app/api?username=seapagan&theme=blue-g
 ![Profile views](https://gpvc.arturio.dev/seapagan)
 
 I also have more public repositories at my [@gnramsay][othergh] account
-
-<!--
-**seapagan/seapagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [porto]: https://www.gnramsay.com
 [projects]: https://www.grantramsay.dev
