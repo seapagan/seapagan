@@ -22,7 +22,7 @@ My current languages of choice are Python, HTML/CSS etc, Javascript
 (specifically React though I also perversely enjoy vanilla JS) and Ruby.
 
 I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
-These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). There are still a couple in this account I need to transfer over.
+These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). 
 
 Visit my [Portfolio page][porto] and my [Projects
 page][projects] for more insights! I'm also trying (badly) to resurrect my old
