@@ -29,9 +29,9 @@ page][projects] for more insights! I'm also trying (badly) to resurrect my old
 blog [Tek:Cited][tekcited] though the going is slow....
 
 [![Anurag's github
-stats](https://github-readme-stats.vercel.app/api?username=seapagan&theme=blue-green&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+stats](https://github-readme-stats-seapagan.vercel.app/api?username=seapagan&theme=blue-green&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seapagan&theme=blue-green&hide=shell,perl&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seapagan.vercel.app/api/top-langs/?username=seapagan&theme=blue-green&hide=shell,perl&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/seapagan)
 
