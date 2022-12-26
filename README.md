@@ -3,8 +3,7 @@
 ## Who am I?
 
 **Grant Ramsay**, also known as '**Seapagan**'. Coder, Dev-ops, Full-Stack
-developer and unashamed Trekkie (Star Gate was also pretty cool. Discovery sucks
-donkey balls).
+developer and unashamed Trekkie.
 
 I have been programming in one form or other since I was 10 (ZX81 BASIC FTW),
 which is over 40 years of wrist strain and no dates.
