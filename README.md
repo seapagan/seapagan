@@ -17,8 +17,8 @@ was a [Doodlebugger][db], it's a lifestyle not a job.
 Those days are way past now and I have returned to coding as a way of life. I am
 fascinated with new technologies and continuously want to learn more and more.
 
-My current languages of choice are Python, HTML/CSS etc, Javascript
-(specifically React though I also perversely enjoy vanilla JS) and Ruby.
+My current languages of choice are Python, HTML/CSS etc, React, Vanilla 
+Javascript and Ruby (though I spend less time using the latter these days sadly).
 
 I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
 These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). 
