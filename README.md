@@ -23,8 +23,7 @@ Javascript and Ruby (though I spend less time using the latter these days sadly)
 I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
 These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). 
 
-Visit my [Portfolio page][porto] and my [Projects
-page][projects] for more insights! I'm also trying (badly) to resurrect my old
+Visit my [Portfolio page][porto] for more insights! I'm also trying (badly) to resurrect my old
 blog [Tek:Cited][tekcited] though the going is slow....
 
 [![Anurag's github
