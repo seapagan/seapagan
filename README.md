@@ -28,12 +28,12 @@ blog [Tek:Cited][tekcited] though the going is slow....
 
 [![Anurag's github
 stats](https://github-readme-stats-seapagan.vercel.app/api?username=seapagan&theme=blue-green&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+<!--
 [![Wakatime Stats](https://github-readme-stats-seapagan.vercel.app/api/wakatime?username=seapagan&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-seapagan.vercel.app/api/top-langs/?username=seapagan&theme=blue-green&hide=shell,perl,php&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Profile views](https://gpvc.arturio.dev/seapagan)
+<!-- ![Profile views](https://gpvc.arturio.dev/seapagan) -->
 
 I also have more public repositories at my [@gnramsay][othergh] account
 
