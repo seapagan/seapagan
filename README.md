@@ -23,8 +23,7 @@ Javascript and Ruby (though I spend less time using the latter these days sadly)
 I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
 These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). 
 
-Visit my [Portfolio page][porto] for more insights! I'm also trying (badly) to resurrect my old
-blog [Tek:Cited][tekcited] though the going is slow....
+Visit my [Portfolio page][porto] for more.
 
 [![Anurag's github
 stats](https://github-readme-stats-seapagan.vercel.app/api?username=seapagan&theme=blue-green&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,7 +34,7 @@ stats](https://github-readme-stats-seapagan.vercel.app/api?username=seapagan&the
 -->
 <!-- ![Profile views](https://gpvc.arturio.dev/seapagan) -->
 
-I also have more public repositories at my [@gnramsay][othergh] account
+I also have more public repositories on my [@gnramsay][othergh] account
 
 [porto]: https://www.gnramsay.com
 [projects]: https://www.grantramsay.dev
