@@ -18,7 +18,8 @@ Those days are way past now and I have returned to coding as a way of life. I am
 fascinated with new technologies and continuously want to learn more and more.
 
 My current languages of choice are Python, HTML/CSS etc, React, Vanilla 
-Javascript and Ruby (though I spend less time using the latter these days sadly).
+Javascript, Ruby (though I spend less time using the latter these days sadly), and
+I've just started to learn Rust.
 
 I'm also trying to improve my Frontend skills using the [Frontend Mentor](https://www.frontendmentor.io) challenges.
 These will be stored in a GitHub Organization I created specifically for this purpose, to keep the noise down in my main account. Find them [here](https://github.com/seapagan-fem). 
@@ -34,11 +35,7 @@ stats](https://github-readme-stats-seapagan.vercel.app/api?username=seapagan&the
 -->
 <!-- ![Profile views](https://gpvc.arturio.dev/seapagan) -->
 
-I also have more public repositories on my [@gnramsay][othergh] account
-
 [porto]: https://www.gnramsay.com
-[projects]: https://www.grantramsay.dev
-[othergh]: https://github.com/gnramsay
 [tekcited]: https://www.tekcited.net
 [mss]: https://www.rigzone.com/training/insight.asp?insight_id=303
 [db]: https://www.urbandictionary.com/define.php?term=doodlebugger
