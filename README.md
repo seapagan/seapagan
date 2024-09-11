@@ -72,7 +72,7 @@ including:
     Editing and more. Fully Responsive. This has been semi-abandoned for about 6
     months, but I am planning to pick it up again soon.
 * [poectrl](https://github.com/seapagan/shopping-list)
-  * A reasonably nich project to control the PoE ports on a Ubiquiti TS-8-PRO
+  * A reasonably niche project to control the PoE ports on a Ubiquiti TS-8-PRO
     Switch, with plans to support other models. I use this to automatically
     control the power to my home/external CCTV cameras and switches.
 * [django-rundevserver](https://github.com/seapagan/django-rundevserver)
