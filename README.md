@@ -109,6 +109,9 @@ or were used for me to learn a new technology.
   * Example how to capture the output from a process in python, in this case
     `uvicorn` to capture the output of a FastAPI application. This was
     prelim-work for the `fastapi-tui` project.
+* [github-contributions](https://github.com/seapagan/github-contributions)
+  * Example showing how to list a users contributions to **third-party** GitHub
+    repositories using Python and GraphQL, with a 'typer' CLI interface.
 
 **Non-python** projects include:
 
