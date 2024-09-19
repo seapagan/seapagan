@@ -120,6 +120,12 @@ or were used for me to learn a new technology.
   * A stand-alone React-based developers portfolio website, taking all data from
     local JSON files and displaying live information about your Github
     repositories (using their GraphGL API). Fully Responsive design.
+* [mchdir (mcd)](https://github.com/seapagan/mchdir)
+  * A utility for creating a new folder then changing into it in one command, or
+    creating and changing into a temporary folder. Written in Rust and using
+    shell integration. I wrote this as doing `mkdir` then `cd` all the time was
+    annoying me. It is a very simple project, but I use it all the time. It's
+    also a decent example of how to integrate Rust with shell commands.
 * [react-github-readme-button](https://github.com/seapagan/react-github-readme-button)
   * A React component to display a Markdown-formatted README file in a modal popup
 * [shopping-list](https://github.com/seapagan/shopping-list)
