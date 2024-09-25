@@ -90,7 +90,7 @@ or were used for me to learn a new technology.
     etc. Written using FastAPI and Jinja2 templates. This is an example of
     how to use FastAPI and Jinja2 together.
 * [fastapi-tui](https://github.com/seapagan/fastapi-tui)
-  * Using `Typer` to create a Text User Interface (TUI) for a FastAPI
+  * Using `Textual` to create a Text User Interface (TUI) for a FastAPI
     application, allowing the logs to be viewed and the application to be
     controlled from a TUI (Terminal User Interface).
 * [FastAPI Async with SQLAlchemy2](https://github.com/seapagan/fastapi_async_sqlalchemy2_example)
