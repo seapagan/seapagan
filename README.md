@@ -115,10 +115,15 @@ or were used for me to learn a new technology.
 
 **Non-python** projects include:
 
+* [bundlerepo](https://github.com/seapagan/bundle-repo)
+  * Pack a local or remote Git Repository into a single XML file for LLM
+    Consumption. Based on the idea of 'repopack', but written in Rust from
+    scratch.
 * [lsplus](https://github.com/seapagan/lsplus)
   * A `rust` project that is a vehicle for me to learn the language and the
     ecosystem, which is a clone of the *nix `ls` command with some extra
-    features and blazingly fast compared to other implementations.
+    features and blazingly fast compared to equivalent Python or Ruby
+    implementations I was using previously.
 * [dev-portfolio-app](https://github.com/seapagan/dev-portfolio-app)
   * A stand-alone React-based developers portfolio website, taking all data from
     local JSON files and displaying live information about your Github
