@@ -81,7 +81,7 @@ including:
 * [openapi-readme](https://github.com/seapagan/openapi-readme)
   * Generate Markdown from an OpenAPI JSON spec file.
 
-I have several repositories that are just to show off some techinqiues or
+I have several repositories that are just to show off some techniques or
 integrations, how to solve some problems with a specific library or framework,
 or were used for me to learn a new technology.
 
