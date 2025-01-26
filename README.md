@@ -154,7 +154,7 @@ or were used for me to learn a new technology.
 
 I have also written several plugins for `mkdocs`, and one reasonably popular one
 for VSCode (<https://github.com/gnramsay/vscode-create-python-module>) that has
-18k+ downloads.
+22k+ downloads.
 
 Finally, for those who are interested, here are are my IDE and Editor settings:
 
