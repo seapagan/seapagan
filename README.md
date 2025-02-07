@@ -85,6 +85,9 @@ I have several repositories that are just to show off some techniques or
 integrations, how to solve some problems with a specific library or framework,
 or were used for me to learn a new technology.
 
+* [fastapi-users-example](https://github.com/seapagan/fastapi-users-example)
+  * An example of how to use the `fastapi-users` package with FastAPI to create
+    a simple but full-featured user authentication system.
 * [link-page](https://github.com/seapagan/link-page)
   * A clean and basic landing page to show your homepage, github, social media
     etc. Written using FastAPI and Jinja2 templates. This is an example of
@@ -124,6 +127,9 @@ or were used for me to learn a new technology.
     ecosystem, which is a clone of the *nix `ls` command with some extra
     features and blazingly fast compared to equivalent Python or Ruby
     implementations I was using previously.
+* [colored_text](https://github.com/seapagan/colored_text)
+  * A simple Rust library for adding colours and styles to terminal text.
+    Written as the current available alternatives  were not quite what I wanted.
 * [dev-portfolio-app](https://github.com/seapagan/dev-portfolio-app)
   * A stand-alone React-based developers portfolio website, taking all data from
     local JSON files and displaying live information about your Github
