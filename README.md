@@ -42,6 +42,9 @@ including:
   * A Python library to save your settings in a TOML file.
 * [github-changelog-md](https://github.com/seapagan/github-changelog-md)
   * Automatically generate a Markdown CHANGELOG from your GitHub Repository.
+* [django-projects](https://github.com/seapagan/django-projects)
+  * A developers profile web page to show off your favourite projects. Each
+  project shows live GitHub stats. Uses Django, Tailwind and Alpine.js
 * [py-maker](https://github.com/seapagan/py-maker)
   * A fully customizable Python application to bootstrap Poetry-based
   boilerplate for you to start developing your Python applications quicker!
