@@ -33,6 +33,9 @@ including:
 * [fastapi-template](https://github.com/seapagan/fastapi-template)
   * A Configurable template for a FastAPI application, with Authentication and
   User integration.
+* [django-projects](https://github.com/seapagan/django-projects)
+  * A developers profile web page to show off your favourite projects. Each
+  project shows live GitHub stats. Uses Django, Tailwind, HTMX and Alpine.js
 * [sqliter-py](https://github.com/seapagan/sqliter-py)
   * A very lightweight Object-Relational Mapping (ORM) library for SQLite
     databases in Python. This is in very active development right now and
@@ -42,9 +45,6 @@ including:
   * A Python library to save your settings in a TOML file.
 * [github-changelog-md](https://github.com/seapagan/github-changelog-md)
   * Automatically generate a Markdown CHANGELOG from your GitHub Repository.
-* [django-projects](https://github.com/seapagan/django-projects)
-  * A developers profile web page to show off your favourite projects. Each
-  project shows live GitHub stats. Uses Django, Tailwind and Alpine.js
 * [py-maker](https://github.com/seapagan/py-maker)
   * A fully customizable Python application to bootstrap Poetry-based
   boilerplate for you to start developing your Python applications quicker!
