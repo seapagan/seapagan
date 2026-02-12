@@ -41,6 +41,9 @@ including:
     databases in Python. This is in very active development right now and
     lacking several main features. The use-case for this is more in CLI
     applications and tools rather than web applications.
+* [cogitus](https://github.com/seapagan/cogitus)
+  * A fast, searchable terminal workspace TUI for capturing and evolving
+    programming ideas. Written in Python and using the `Textual` framework.
 * [simple-toml-settings](https://github.com/seapagan/simple-toml-settings)
   * A Python library to save your settings in a TOML file.
 * [github-changelog-md](https://github.com/seapagan/github-changelog-md)
